@@ -24,5 +24,5 @@ else if (asnwer.operator === "Division") {
     console.log(asnwer.fisrtNumber / asnwer.secondNUMBER);
 }
 else {
-    console.log("please seect valid operator");
+    console.log("please select valid operator");
 }
