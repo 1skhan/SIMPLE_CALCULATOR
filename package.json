@@ -1,9 +1,10 @@
 {
-  "name": "simpil-calculator",
+  "name": "sk-5-simpil-calculator",
   "version": "1.0.0",
   "description": "A simpil-calculator with typescript, node.js and inquirer",
   "main": "index.js",
   "type": "module",
+  "bin":"index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
